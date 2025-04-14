@@ -134,25 +134,6 @@ So If you'd like to contribute, please fork the repository and use a feature bra
 - https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras
 - In case of any help you may need from me, please contact abunomanmd.sakib@gmail.com directly without any hesitation! I will be glad to help you.
 
-## Author
-Abu Noman Md. Sakib, Pias Roy<br>
-abunomanmd.sakib@gmail.com<br>
-pias.kuet@gmail.com<br>
-Student at Department of Computer Science and Engineering<br>
-Khulna University of Engineering & Technology, Khulna<br>
-Bangladesh
 
-<b> Supervised under </b><br>
-Mahmudul Hasan Shauqi<br>
-mahmudulhasanshauqi@gmail.com<br>
-Lecturer<br>
-Dept. of Computer Science and Engineering<br>
-Khulna University of Engineering & Technology<br>
 
-## Licensing
-The code in this project is licensed under GNU GPLv3 license.
-
-## Stargazers over time
-
-![Stargazers over time](https://starchart.cc/anmspro/Traffic-Signal-Violation-Detection-System.svg)
       
